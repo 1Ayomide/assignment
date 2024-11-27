@@ -1,0 +1,23 @@
+Questions
+ 1.explain cloud computing and how it differs from on prem environments
+ 2.list five advantages of on prem environments
+ 3.list and describe the other cloud service models.
+
+     QUESTION 1
+ 1.OWNERSHIP:in an on premises environments,a company owns and controls its own servers and it resources.in cloud computing,a third party provider hosts the resources.
+ 2.COST:on premises environments have higher initial setup cost,while cloud computing is generally less expensive.cloud computing uses a pay-per-use model,while on premises software often uses a licensing model.
+ 3. SCALABILTY:cloud computing is highly scalable,allowing companies to easily increase or decrease the amount of resources they use.on premises resources are finite.
+ 4.CONTROL:on premises environments offer more control over infrastructure, while cloud computing relies on an external provider.
+ 5.MAINTENANCE:on premises environments requires more hands on maintenance.
+      
+      QUESTION 2
+ 1.total control and ownership
+ 2.data security and privacy
+ 3.physical control
+ 4.legacy application
+ 5.network dependence
+ 
+   QUESTION 3
+  1. network as service(NAAS):provides virtualized network services, including routing, switching, and security.
+  2.desktop as a service(DAAS):provides virtual desktops and application, allowing users to acess theirs desktop environment from anywhere.
+  3.storage as a services(STAAS):offers storage capacity on demand, allowing users to store and retrieve data as needed.
